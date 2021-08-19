@@ -30,3 +30,16 @@ var_dump($variavel);
 $variavel = 7.8;
 echo '<br>';
 var_dump($variavel);
+
+//Nomes Válidos
+$var = 'válida';
+$var2 = 'válida';
+$VAR3 = 'válida';
+$_var_4 = 'válida'; //mas não é legal
+$vâr5 = 'válida';//mas não é legal
+//$6var = 'inválida';
+//$%var7 = 'inválida';
+//$var8% = 'inválida;
+
+echo '<br>';
+var_dump($_SERVER["HTTP_HOST"]);

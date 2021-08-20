@@ -106,6 +106,11 @@
                                 Desafio Equação
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=Variaveis&file=atribuicoes">
+                                Atribuições
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -109,6 +109,31 @@
                         <li>
                             <a href="exercicio.php?dir=Variaveis&file=atribuicoes">
                                 Atribuições
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Variaveis&file=interpolacao">
+                                Interpolação
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Variaveis&file=variaveis_variaveis">
+                                Variáveis Variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Variaveis&file=desafio_variaveis">
+                                Desafio Variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Variaveis&file=valor_referencia">
+                               Valor vs Referência
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Variaveis&file=constantes">
+                               Constantes
                             </a>
                         </li>
                     </ul>
